@@ -7,7 +7,7 @@
 
 ##**Структура**
 
-![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns\images\state.jpg)
+![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns/images/state.jpg)
 
 ##**Демо**
 ```cs

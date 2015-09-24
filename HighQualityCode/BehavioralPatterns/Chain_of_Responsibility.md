@@ -8,7 +8,7 @@
 
 ##**Структура**
 
-![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns\images\chain_of_responsibility.jpg)
+![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns/images/chain_of_responsibility.jpg)
 
 ##**Демо**
 ```cs

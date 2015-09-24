@@ -6,7 +6,7 @@
 Представя функционалност за информиране на дадени обекти, че в друг обект е настъпила определена промяна. Обектите, които се интересуват от конкретната промяна в друг обект го заявяват и от там нататък се създава връзка между обекта и всички обекти, които се интересуват от него, така че когато въпросният обект промени състоянието си, всички да бъдат информирани.
 ##**Структура**
 
-![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns\images\observer.jpg)
+![enter image description here](https://github.com/tokera/TelerikAcademyHomeworks/blob/master/HighQualityCode/BehavioralPatterns/images/observer.jpg)
 
 ##**Демо**
 ```cs
